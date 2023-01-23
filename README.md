@@ -3,4 +3,5 @@
 Hello hello
 
 changes
-![badge](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
+[![CI](https://github.com/kirpister/cidi_group/actions/workflows/blank.yml/badge.svg)](https://github.com/kirpister/cidi_group/actions/workflows/blank.yml)
