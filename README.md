@@ -1,4 +1,4 @@
-# cidi_group
+# cicd_group
 
 Hello hello
 
